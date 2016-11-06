@@ -19,7 +19,7 @@ ul#images li {
   display: inline-block;
   position: relative;
   float: left;
-  margin-bottom: 300px;
+  margin-bottom: 200px;
   margin-right: 30px;
   display: flex;
   flex-wrap: wrap;
